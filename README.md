@@ -6,9 +6,7 @@
 
 ### 💫 Personal Info:
 
-Engineering high-performance, future-proof mobile and web applications with a focus on clean architecture, accessibility, and user-centric design. Dedicated to transforming complex requirements into robust digital products.
-
-<br>👯 **Collaboration:** Seeking partnerships for high-impact projects requiring clean architecture and robust Mobile/Full-Stack engineering. Contact Here!!
+Engineering high-performance, future-proof mobile and web applications with a focus on clean architecture, accessibility, and user-centric design. Dedicated to transforming complex requirements into robust digital products. Collaboration/Seeking partnerships for high-impact projects requiring clean architecture and robust Mobile/Full-Stack engineering. Contact Here!!
 
 ---
 
@@ -18,7 +16,11 @@ Engineering high-performance, future-proof mobile and web applications with a fo
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+
 
 ---
 
@@ -34,10 +36,4 @@ Engineering high-performance, future-proof mobile and web applications with a fo
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/khdcoder) [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:work.khalidsaeed@gmail.com)  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=Google-Chrome&logoColor=white)](https://github.com/khdcoder)
 
-<!-- Typing Animation Starts Here -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Flutter+Developer+%26+Programmer;Building+MilkLog+%26+Oriva-Dairy;Crafting+clean+code+%26+premium+UI;Always+learning+new+things" alt="Typing Animation" />
-</p>
-<!-- Typing Animation Ends Here -->
 
----
