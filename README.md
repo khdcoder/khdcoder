@@ -9,7 +9,6 @@
 Engineering high-performance, future-proof mobile and web applications with a focus on clean architecture, accessibility, and user-centric design. Dedicated to transforming complex requirements into robust digital products.
 
 <br>👯 **Collaboration:** Seeking partnerships for high-impact projects requiring clean architecture and robust Mobile/Full-Stack engineering. Contact Here!!
-- 📧 **Email:** work.khalidsaeed@gmail.com  
 
 ---
 
@@ -33,9 +32,7 @@ Engineering high-performance, future-proof mobile and web applications with a fo
 
 ### 🌐 Contact:
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/khdcoder) 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:work.khalidsaeed@gmail.com)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=Google-Chrome&logoColor=white)](https://github.com/khdcoder)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/khdcoder) [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:work.khalidsaeed@gmail.com)  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=Google-Chrome&logoColor=white)](https://github.com/khdcoder)
 
 <!-- Typing Animation Starts Here -->
 <p align="center">
